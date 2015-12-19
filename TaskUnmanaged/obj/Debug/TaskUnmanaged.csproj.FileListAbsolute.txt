@@ -1,0 +1,9 @@
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\TaskUnmanaged\bin\Debug\TaskUnmanaged.dll
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\TaskUnmanaged\bin\Debug\TaskUnmanaged.pdb
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\TaskUnmanaged\obj\Debug\TaskUnmanaged.csprojResolveAssemblyReference.cache
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\TaskUnmanaged\obj\Debug\TaskUnmanaged.dll
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\TaskUnmanaged\obj\Debug\TaskUnmanaged.pdb
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\TaskUnmanaged\bin\Debug\TaskUnmanaged.dll
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\TaskUnmanaged\bin\Debug\TaskUnmanaged.pdb
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\TaskUnmanaged\obj\Debug\TaskUnmanaged.dll
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\TaskUnmanaged\obj\Debug\TaskUnmanaged.pdb

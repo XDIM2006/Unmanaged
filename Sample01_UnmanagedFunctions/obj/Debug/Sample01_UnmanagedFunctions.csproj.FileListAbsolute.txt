@@ -1,0 +1,14 @@
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\Sample01_UnmanagedFunctions\bin\Debug\Sample01_UnmanagedFunctions.dll
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\Sample01_UnmanagedFunctions\bin\Debug\Sample01_UnmanagedFunctions.pdb
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\Sample01_UnmanagedFunctions\obj\Debug\Sample01_UnmanagedFunctions.dll
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\Sample01_UnmanagedFunctions\obj\Debug\Sample01_UnmanagedFunctions.pdb
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\Sample01_UnmanagedFunctions\obj\Debug\Sample01_UnmanagedFunctions.csprojResolveAssemblyReference.cache
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\Sample01_UnmanagedFunctions\bin\Debug\TaskUnmanaged.dll
+D:\mentoring\Interoperating with Unmanaged Code\Samplesdef\Sample01_UnmanagedFunctions\bin\Debug\TaskUnmanaged.pdb
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\Sample01_UnmanagedFunctions\obj\Debug\Sample01_UnmanagedFunctions.csprojResolveAssemblyReference.cache
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\Sample01_UnmanagedFunctions\obj\Debug\Sample01_UnmanagedFunctions.dll
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\Sample01_UnmanagedFunctions\obj\Debug\Sample01_UnmanagedFunctions.pdb
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\Sample01_UnmanagedFunctions\bin\Debug\Sample01_UnmanagedFunctions.dll
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\Sample01_UnmanagedFunctions\bin\Debug\Sample01_UnmanagedFunctions.pdb
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\Sample01_UnmanagedFunctions\bin\Debug\TaskUnmanaged.dll
+D:\mentoring\InteroperatingwithUnmanagedCode\Samplesdef\Sample01_UnmanagedFunctions\bin\Debug\TaskUnmanaged.pdb
